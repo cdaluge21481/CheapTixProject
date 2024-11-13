@@ -32,6 +32,12 @@
         </section>
     </main>
 
+    <section id="contact">
+    <h3>Contact Us</h3>
+    <p>Email: support@cheaptix.com</p>
+    <p>Phone: (555) 123-4567</p>
+</section>
+
     <footer>
         <p>&copy; 2024 CheapTix. All Rights Reserved.</p>
     </footer>
