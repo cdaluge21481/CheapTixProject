@@ -16,5 +16,6 @@ function searchEvents() {
             <p>Location: Venue 3</p>
             <p>Date: March 15, 2024</p>
         </div>
+git push origin main
     `;
 }
